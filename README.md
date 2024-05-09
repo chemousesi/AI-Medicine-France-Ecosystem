@@ -1,12 +1,9 @@
-# AI-Medicine-France-Ecosystem
-France's AI/Medicine research ecosystem
-Sure! Here's the information in Markdown format, including the previous descriptions and links:
-
----
 
 # French Research Ecosystem in AI/Medicine
 
 This document provides some information that might be helpful if you are looking for an internship or making connections with university labs or companies working in the field of AI medicine and biomedical imaging in France.
+
+---
 
 **Note 1:** This is not an exhaustive list, and contributions are welcome.
 
